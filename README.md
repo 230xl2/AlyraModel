@@ -7,6 +7,7 @@
 The project brings together interactive 3D brain visualization, educational research content, biological pathway exploration, and AI-assisted explanations to make complex neuroscience topics easier to explore and understand.
 
 🌐 **Website:** https://AlyraModel.com
+
 🪙 **Contract Adress:** GNXCgQ9FZGFrzYd9TfiJCJJxxuk1Zk9uELvWp9rcpump
 
 ---
